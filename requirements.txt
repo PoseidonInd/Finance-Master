@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+shortuuid
+plotly
+streamlit-lottie
+openpyxl
